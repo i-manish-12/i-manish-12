@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a web project**
 
-- 🌱 I’m currently learning **Full stack android development**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 💬 Ask me about **Web and DSA**
 
